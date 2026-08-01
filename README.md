@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Docker 🐳 | Kubernetes ☸️ | CI/CD ⚙️ | Cloud Deployments ☁️**
 
-- 👨‍💻 All of my projects are available at [🌐 https://github.com/Nautiyaladitya](🌐 https://github.com/Nautiyaladitya)
+- 👨‍💻 All of my projects are available at [🌐 https://github.com/Nautiyaladitya]
 
 - 📝 I regularly write articles on [✍️ Java Development | Spring Boot | Microservices | Software Engineering](✍️ Java Development | Spring Boot | Microservices | Software Engineering)
 
