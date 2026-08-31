@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Lakshay%20Gupta&fontSize=50&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20Creative%20Dev%20%7C%20AI%20Explorer&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aditya%20Nautiyal&fontSize=50&fontAlignY=35&desc=JAVA%20Stack%20Developer%20%7C%20Creative%20Dev%20%7C%20AI%20Explorer&descAlignY=55&descAlign=50" />
 </p>
 
 ---
@@ -17,10 +17,10 @@
 
 # 🌐 Connect With Me:
 <p align="center">
-  <a href="https://linkedin.com/in/lakshay--gupta"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/adityanautiyal011"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/Lakshay2709"><img src="https://img.shields.io/badge/Twitter-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" /></a>
-  <a href="https://instagram.com/heyy__lakshay"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:laksh8403@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/im_aadi01"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:nautiyaladitya011@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -30,8 +30,6 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-%23323330.svg?style=for-the-badge&logo=greensock&logoColor=88CE02)
-![Three.js](https://img.shields.io/badge/three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
 
 **Backend:**  
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
