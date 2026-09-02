@@ -27,34 +27,30 @@
 
 # 💻 Tech Stack
 
-### Backend
+### ☕ Java Ecosystem
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=forge&logo=openjdk&logoColor=white
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&g&logoColor=white
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=te](https://img.shields.io/badge/Hibernate=for-the-badge&logo=hibernate&logoColor=white
-![Maven](https://img.shields.io/badge/Maven-C71A36?-the-badge&logo=apachemaven&logoColor=white
-![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-=junit5&logoColor=white
-![Mockito](https://img.shields.io/badge/Mockito-6DB33Fthe-badge
+![My Skills](https://skillicons.dev/icons?i=java,spring,maven,ps://skillicons.dev)
 
-### Frontend
+### 🎨 Frontend
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=reactr=%2361DAFB
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?stylebadge&logo=redux&logoColor=white
-![TailwindCSS](https://img.shields.io/badge/tailwindcssstyle=for-the-badge&logo=tailwind-css&logoColor=white
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind)](httpsev)
 
-### Database
+### ⚙️ Backend
 
-![MySQL](https://img.shields.io/badge/MySQLtyle=for-the-badge&logo=mysql&logoColor=white
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-=postgresql&logoColor=white
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logogoColor=white
+![My Skills](https://skillicons.dev/icons?i=nodejs,express//skillicons.dev)
 
-### DevOps & Cloud
+### 🗄️ Database
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?the-badge&logo=docker&logoColor=white
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326the-badge&logo=kubernetes&logoColor=white
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badgemazonaws&logoColor=white
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-thego=microsoftazure&logoColor=white
-`
+[![My Skills](https://skillicons.dev/icons?i=mysql,db,redis,firebase)](https://skillicons.dev)
+
+### ☁️ DevOps & Cloud
+
+[![My Skills](https://skillicons.dev/,kubernetes,aws,azure)](https://skillicons.dev)
+
+### 🛠️ Tools
+
+[![My Skills](https://skillicons.dev/icons?i=gitn,vscode,idea,eclipse,androidstudio)](https://skillicons.dev)
+
 ---
 
 ## 🏆 GitHub Trophies
