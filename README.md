@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aditya%20Nautiyal&fontSize=50&fontAlignY=35&desc=JAVA%20Stack%20Developer%20%7C%20Creative%20Dev%20%7C%20AI%20Explorer&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aditya%20Nautiyal&fontSize=50&fontAlignY=35&desc=JAVA%20Stack%20Developer%20%AI%20Explorer&descAlignY=55&descAlign=50" />
 </p>
 
 ---
