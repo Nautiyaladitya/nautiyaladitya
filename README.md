@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aditya%20Nautiyal&fontSize=50&fontAlignY=35&desc=JAVA%20Stack%20Developer%20%AI%20Explorer&descAlignY=55&descAlign=50" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aditya%20Nautiyal&fontSize=50&fontAlignY=35&desc=JAVA%20Stack%20Developer%20%7C%20AI%20Explorer&descAlignY=55&descAlign=50" />
 </p>
 
 ---
@@ -16,7 +16,7 @@
 ---
 
 # 🌐 Connect With Me:
-<p align="center">
+<p>
   <a href="https://linkedin.com/in/adityanautiyal011"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/@nautiyal_a15621"><img src="https://img.shields.io/badge/Twitter-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" /></a>
   <a href="https://instagram.com/im_aadi01"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
