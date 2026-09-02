@@ -27,29 +27,7 @@
 
 # 💻 Tech Stack
 
-### ☕ Java Ecosystem
-
-![My Skills](https://skillicons.dev/icons?i=java,spring,maven,ps://skillicons.dev)
-
-### 🎨 Frontend
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind)](httpsev)
-
-### ⚙️ Backend
-
-![My Skills](https://skillicons.dev/icons?i=nodejs,express//skillicons.dev)
-
-### 🗄️ Database
-
-[![My Skills](https://skillicons.dev/icons?i=mysql,db,redis,firebase)](https://skillicons.dev)
-
-### ☁️ DevOps & Cloud
-
-[![My Skills](https://skillicons.dev/,kubernetes,aws,azure)](https://skillicons.dev)
-
-### 🛠️ Tools
-
-[![My Skills](https://skillicons.dev/icons?i=gitn,vscode,idea,eclipse,androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,gradle,nodejs,express,react,mongodb,mysql,postgres,redis,kafka,rabbitmq,docker,kubernetes,aws,azure,gcp,git,github,gitlab,jenkins,postman,hibernate,idea,eclipse,vscode,linux,bash,html,css,js,ts,bootstrap,tailwind,redux,nginx,firebase,graphql,npm,yarn,selenium,py,c,cpp&perline=10)](https://skillicons.dev)
 
 ---
 
