@@ -25,7 +25,11 @@ edit it according to my profile and also do not delete anything just update and 
 
 ---
 
-# 💻 Tech Stack:
+## 💻 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate,react,js,html,css,mysql,postgres,mongodb,docker,kubernetes,git,github,postman,vscode,idea&perline=10
+</p>
 
 **Communication**
 	![HTTP](https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png)
