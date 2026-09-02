@@ -25,69 +25,54 @@ edit it according to my profile and also do not delete anything just update and 
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate,react,js,html,css,mysql,postgres,mongodb,docker,kubernetes,git,github,postman,vscode,idea&perline=10
-</p>
+### Backend
 
-**Communication**
-	![HTTP](https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png)
-  ![WebSocket](https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png)
-  ![REST](https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png)
-  ![Kafka](https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&r=white
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=sColor=white
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?adge&logo=springboot&logoColor=white
+![Hibernate](https://img.shields.io/badge/Hibernate-for-the-badge&logo=hibernate&logoColor=white
+![Maven](https://img.shields/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5r=white
+![Mockito](https://img.shields.io/badge/Mockito-6DBor-the-badge
+![Lombok](https://img.shields.io/badge4245?style=for-the-badge
+![JWT](https://img.shields.io/badge/JWT-black?style=-badge&logo=JSON-web-tokens
 
-**Version Control**
-  ![Git](https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png)
-  ![GitHub](https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png)
+### Frontend
 
-**Java**
-![Java](https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png)
-![Spring](https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png)
-![Spring Boot](https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png)
-![Maven](https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png)
-![Hibernate](https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png)
-![JUnit](https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png)
-![Mockito](https://user-images.githubusercontent.com/25181517/183892181-ad32b69e-3603-418c-b8e7-99e976c2a784.png)
-![Lombok](https://user-images.githubusercontent.com/25181517/190229463-87fa862f-ccf0-48da-8023-940d287df610.png)
-![Groovy](https://user-images.githubusercontent.com/25181517/183892787-bca94a0e-ffcb-4eeb-8137-e0fc4e446c25.png)
-![Tomcat](https://user-images.githubusercontent.com/25181517/183894676-137319b5-1364-4b6a-ba4f-e9fc94ddc4aa.png)
-![Jetty](https://user-images.githubusercontent.com/25181517/183017080-bc1a1389-7286-4888-af7b-5aad88909995.png)
- 
-**Frontend:**  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&=white
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logogoColor=white
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&t&logoColor=black
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=reactr=%2361DAFB
+![Redux](https://img.shields.io/badge/redux-%23593d88e=for-the-badge&logo=redux&logoColor=white
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for=tailwind-css&logoColor=white
 
-**Backend:**  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+### Database
 
-**Database:**  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logogoColor=white
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192-badge&logo=postgresql&logoColor=white
+![MongoDB](https://img.shields.io/badge/MongoDBsvg?style=for-the-badge&logo=mongodb&logoColor=white
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=# Microservices & Architecture
 
-**DevOps & Cloud:**  
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=00C7B7)
-![Render](https://img.shields.io/badge/Render-%23430098.svg?style=for-the-badge&logo=render&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-the-badge
+![REST API](https://img.shields.io/badge/REST_API-=for-the-badge
+![Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logofka
+![Eureka](https://img.shields.io/badge/Eureka_Server-4e=for-the-badge
+![API Gateway](https://img.shields.io/badge/API_Gateway-2196F3?style=for-the-badgeCloud
 
-**Tools**
-![InteliJ](https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png)
-![Android Studio](https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png)
-![Visual Studio Code](https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png)
-![Eclipse](https://user-images.githubusercontent.com/25181517/192108892-6e9b5cdf-4e35-4a70-ad9a-801a93a07c1c.png)
-![Postman](https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png)
-![Jira](https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png)
-![Jupyter Notebook](https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png)
-![SonarQube](https://user-images.githubusercontent.com/25181517/184146221-671413cb-b1ae-47db-a232-b37c99281516.png)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-=docker&logoColor=white
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style&logo=kubernetes&logoColor=white
+![AWS](https://img.shields.io/badge/900?style=for-the-badge&logo=amazonaws&logoColor=white
+![Azure](https://img.shields.ioure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white
 
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&white
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&hite
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-lor=white
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-or=white
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&r=white
 ---
 
 ## 🏆 GitHub Trophies
