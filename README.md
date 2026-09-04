@@ -43,9 +43,8 @@
 
 # 🎯 Fun Facts:
 - 🌍 Love mixing **tech + creativity**  
-- 🕹 Can spend hours experimenting with animations  
-- 🎵 Code flows better with **lo-fi beats**  
-- ⚡ Motto: _"Build experiences, not just websites"_  
+- 🎵 Code flows better with **beats**  
+- ⚡ Motto: _"Build experiences, not just application"_  
 
 ---
 
