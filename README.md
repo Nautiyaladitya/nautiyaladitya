@@ -35,8 +35,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=lakshaygupta2004&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=lakshaygupta2004&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true)<br />
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshaygupta2004&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=nautiyaladitya&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true)<br />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nautiyaladitya&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
 
